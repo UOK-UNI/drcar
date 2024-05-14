@@ -1,0 +1,22 @@
+module.exports = {
+  fontSize: {
+    "display-lg": ["3.56rem", { lineHeight: "5rem" }],
+    "display-md": ["2.81rem", { lineHeight: "3.93rem" }],
+    "display-sm": ["2.25rem", { lineHeight: "3.125rem" }],
+    "headline-lg": ["2rem", { lineHeight: "2.81rem" }],
+    "headline-md": ["1.75rem", { lineHeight: "2.5rem" }],
+    "headline-sm": ["1.5rem", { lineHeight: "2.06rem" }],
+    "subheading-lg": ["1.56rem", { lineHeight: "2.187rem" }],
+    "subheading-md": ["1.25rem", { lineHeight: "1.75rem" }],
+    "subheading-sm": ["1rem", { lineHeight: "1.43rem" }],
+    "title-lg": ["1.25rem", { lineHeight: "1.75rem" }],
+    "title-md": ["1rem", { lineHeight: "1.43rem" }],
+    "title-sm": ["0.875rem", { lineHeight: "1.25rem" }],
+    "label-lg": ["0.875rem", { lineHeight: "1rem" }],
+    "label-md": ["0.75rem", { lineHeight: "0.875rem" }],
+    "label-sm": ["0.687rem", { lineHeight: "0.8125rem" }],
+    "body-lg": ["1rem", { lineHeight: "1.43rem" }],
+    "body-md": ["0.875rem", { lineHeight: "1.25rem" }],
+    "body-sm": ["0.75rem", { lineHeight: "1.01rem" }],
+  },
+};
